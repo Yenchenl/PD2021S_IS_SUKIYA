@@ -29,11 +29,3 @@ Welcome to the SUKIYA餐點銷售系統 README. This document provides an overvi
 - The menu management feature enables administrators to manage the menu items.
 - Administrators can perform actions like adding, deleting, searching, and updating menu item data.
 
-## Getting Started
-
-To get started with the SUKIYA餐點銷售系統, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone <repository-url>
