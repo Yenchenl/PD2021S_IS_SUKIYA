@@ -1,6 +1,7 @@
 # SUKIYA餐點銷售系統
 
 Welcome to the SUKIYA餐點銷售系統 README. This document provides an overview of the system's functionalities and how to use them.
+![image](https://github.com/Yenchenl/graduate_project/assets/73538798/e0a30667-ecf7-4b35-91e7-77dc7af2171a)
 
 ## System Functionalities
 
